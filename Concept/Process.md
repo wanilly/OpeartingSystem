@@ -4,7 +4,7 @@
   
   텍스터 및 데이터 섹션의 크기는 고정되기 때문에 실행시간 동안 크기가 변하지 않는다.
   
-  사진
+  <img width="243" alt="image" src="https://user-images.githubusercontent.com/49769190/149624919-cb707678-a061-4158-ad52-e3a275daa306.png">
   #### 그림 프로세스 메모리 배치
   * 텍스트 색션 - 실행코드 
   * 데이터 색션 - 전역 변수 
@@ -18,7 +18,8 @@
   * 준비(ready): 프로세스가 처리기에 할당되기를 기다림
   * 종료(terminated): 프로세서의 실행이 종료됨
 
-
+  <img width="803" alt="image" src="https://user-images.githubusercontent.com/49769190/149624884-2d0fa584-10f1-4f56-82c4-3302468f3db6.png">
+    
   ## 프로세서 제어 블록(Process Control Block: PCB)
    테스크 제어 블록이라고 불림, 
    * 프로세서 상태: new, running, waiting or halted(정지) 상태 등
@@ -29,7 +30,7 @@
    * 메모리 관리 정보: 운영체제에 의해 사용되는 메모리 시스템에 따라 기준 레지스터와 한계 레지스터 값, 운영체제가 사용하는 메모리 시스템에 따라 페이지 테이블 또는 세그먼트 테이블 등과 같은 정보 포함
    * 회계 정보: CPU 사용 시간과 경과된 시간, 시간 제한, 계정 번호, 잡 또는 프로세스 번호 등을 포함
    * 입출력 상태 정보: 이 프로세스에 할당된 입출력 장치들과 열린 파일의 목록 등을 포함
-
+    <img width="206" alt="image" src="https://user-images.githubusercontent.com/49769190/149624948-32dc1e46-4f1e-4429-bcc5-b67bf63eff00.png">
 
    ## 스레드(Threads)
    모델은 프로세스가 단일의 실행 스레드를 실행하는 프로그램임을 암시했다.
