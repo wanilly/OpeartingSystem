@@ -30,7 +30,10 @@
    * 메모리 관리 정보: 운영체제에 의해 사용되는 메모리 시스템에 따라 기준 레지스터와 한계 레지스터 값, 운영체제가 사용하는 메모리 시스템에 따라 페이지 테이블 또는 세그먼트 테이블 등과 같은 정보 포함
    * 회계 정보: CPU 사용 시간과 경과된 시간, 시간 제한, 계정 번호, 잡 또는 프로세스 번호 등을 포함
    * 입출력 상태 정보: 이 프로세스에 할당된 입출력 장치들과 열린 파일의 목록 등을 포함
-    <img width="206" alt="image" src="https://user-images.githubusercontent.com/49769190/149624948-32dc1e46-4f1e-4429-bcc5-b67bf63eff00.png">
+    
+    
+   
+   <img width="500" alt="image" src="https://user-images.githubusercontent.com/49769190/149624948-32dc1e46-4f1e-4429-bcc5-b67bf63eff00.png">
 
    ## 스레드(Threads)
    모델은 프로세스가 단일의 실행 스레드를 실행하는 프로그램임을 암시했다.
