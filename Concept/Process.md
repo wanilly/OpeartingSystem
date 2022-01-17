@@ -18,7 +18,7 @@
   * 준비(ready): 프로세스가 처리기에 할당되기를 기다림
   * 종료(terminated): 프로세서의 실행이 종료됨
 
-  <img width="803" alt="image" src="https://user-images.githubusercontent.com/49769190/149624884-2d0fa584-10f1-4f56-82c4-3302468f3db6.png">
+  <img width="693" alt="image" src="https://user-images.githubusercontent.com/49769190/149725888-96336130-8573-4488-b8b6-f2c1a7e33245.png">
     
   ## 프로세서 제어 블록(Process Control Block: PCB)
    테스크 제어 블록이라고 불림, 
