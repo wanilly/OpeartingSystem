@@ -33,7 +33,7 @@
     
     
    
-   <img width="500" alt="image" src="https://user-images.githubusercontent.com/49769190/149624948-32dc1e46-4f1e-4429-bcc5-b67bf63eff00.png">
+   <img width="200" alt="image" src="https://user-images.githubusercontent.com/49769190/149624948-32dc1e46-4f1e-4429-bcc5-b67bf63eff00.png">
 
    ## 스레드(Threads)
    모델은 프로세스가 단일의 실행 스레드를 실행하는 프로그램임을 암시했다.
